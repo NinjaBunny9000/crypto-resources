@@ -19,14 +19,14 @@
 
   - Basic understanding of crypto & mining
  -  Wallet installed & encrypted for the currency you're mining 
- - Current Mavis Beacon's typing skills certification (100+ wpm / 100% accuracy)
+ - Current Mavis Beacon's typing skills certification (100+ wpm at 100% accuracy)
 
 
 --- 
 
 ## GPU & Overclocking
 
-While you’ll be doing this next part at your own risk, I do suggest giving it a sho t because it could mean significant improvements to your hashrate as well as potentially cut down on power consumptions while extending life expectancy of your hardware.
+While you’ll be doing this next part at your own risk, I do suggest giving it a shot because it could mean significant improvements to your hashrate as well as potentially cutting down on power consumption while extending the life expectancy of your hardware.
 
 ### For NVIDIA - Download & Install [MSI Afterburner](https://bitcointalk.org/index.php?topic=2565979.0)
 
@@ -105,7 +105,9 @@ goto loop
 
 ### Launching the Miner
 
-**Open a terminal** window.  
+Double-click the BAT file.
+
+If the window opens then immediately closes, then **open a terminal** window.  
 > _SHORTCUT:_ Press the Windows key or click the Start menu & type "cmd" then click Command Prompt.
 
 ![opening terminal](https://i.imgur.com/5Vd2q70.png)
@@ -123,17 +125,19 @@ _** Another tutorial is coming soon that goes over what you're seeing in the out
 
 ## Mining Pools - _draft_
 
-This part is going to be up to you, but I can confirm that I’ve had success so far on these pools:
+This part is going to be up to you, but I can confirm that I’ve had success so far on these pools: 
 
-**Dinero** - [Minaderes](https://minadorespool.gq)  
+**Dinero** - [BSOD](http://bsod.pw), [Minaderes](https://minadorespool.gq), [LycheeBit](https://www.lycheebit.com), [Masterhash](https://yiimp.masterhash.us/site/mining)
+
+> Always check a coin's official website, Discord channel, or BitcoinTalk post for latest pool information.
 
 
-> Some pools might get overwhelmed or DDoS'd and crash. **Keep an eye on the pool** your using to see what it’s uptime actually is. If your rig is unattended, there’s bits in the BAT file that will relaunch & reconnect if/when it crashes or times out.
+> Some pools might get overwhelmed or DDoS'd and crash. **Keep an eye on the pool** you're using to see what its uptime actually is. If your rig is unattended, there’s bits in the BAT file that will relaunch & reconnect if/when it crashes or times out.
 
 
 ## FAQ
 
-_** work in progress_
+*work in progress
 
 ---
 
