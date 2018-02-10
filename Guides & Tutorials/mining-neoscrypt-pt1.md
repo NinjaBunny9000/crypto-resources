@@ -1,5 +1,7 @@
 # Pool-Mining Neoscrypt Coins - _1070 ver._
 
+ [Download as a PDF](https://goo.gl/v1yyx7)
+ 
  This is a hybrid guide for setting up & configuring a single-gpu NVDIA mining rig. It covers some parts in-depth for new folks, but you can **scan the bold texts** to get the main points & steps.
 
 
