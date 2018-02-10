@@ -134,7 +134,7 @@ This part is going to be up to you, but I can confirm that I’ve had success so
 **Dinero** - [Minaderes](https://minadorespool.gq)  
 
 
-> **Some pools might overwhelmed** or DDoS'd and crash. **Keep an eye on the pool** your using to see what it’s uptime actually is. If your rig is unattended, there’s bits in the BAT file that will relaunch & reconnect if/when it crashes.
+> Some pools might get overwhelmed or DDoS'd and crash. **Keep an eye on the pool** your using to see what it’s uptime actually is. If your rig is unattended, there’s bits in the BAT file that will relaunch & reconnect if/when it crashes or times out.
 
 
 ## FAQ
@@ -149,5 +149,5 @@ I don’t mind doing more of these if they’re helpin’ folks, so feel free to
 And lastly, **I’m not doing this for compensation!** However, I know I’ve gifted others for contributing similar guides in the past, so here’s some wallet addresses should you find any information useful & are all about that beloved digital karma:
 
 DIN: `DGzQAnCCUL41wirZP7o86dXyVXjiXz8d9Z`  
-BTC: `ADDRESS`  
-ETH: `ADDRESS`
+BTC: `3LbPNhVK3w3AG9HKXAzVGrWHCpjSttczR1`  
+ETH: `0xb6B35c68CC47cC23ace8c3E780b8ceE94EeFa2F3`
