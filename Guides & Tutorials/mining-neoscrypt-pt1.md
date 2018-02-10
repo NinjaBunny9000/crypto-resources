@@ -22,11 +22,10 @@
 
 ### Prereq's
 
- - Basic computer skills 
- - Basic understanding of crypto & mining
- -  Wallet of currency you are mining installed & encrypted
+  - Basic understanding of crypto & mining
+ -  Wallet installed & encrypted for the currency you're mining 
+ - Current Mavis Beacon's typing skills certification (100+ wpm / 100% accuracy)
 
-> 
 
 --- 
 
