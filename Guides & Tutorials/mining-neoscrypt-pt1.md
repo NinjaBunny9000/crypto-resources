@@ -3,22 +3,17 @@
  This is a hybrid guide for setting up & configuring a single-gpu NVDIA mining rig. It covers some parts in-depth for new folks, but you can **scan the bold texts** to get the main points & steps.
 
 
-<!-- TOC -->
+- [GPU & Overclocking](#gpu-overclocking)
+    - [NVIDIA](#for-nvidia---download-install-msi-afterburner)
+    - [AMD](#for-other-cards-amd)
+- [Setting Up a Miner Program](#setting-up-a-miner-program)
+- [Launching & Running the Miner](#launching-running-the-miner)
+    - [Creating the BAT file](#creating-the-bat-file)
+    - [Launching the Miner](#launching-the-miner)
+- [Mining Pools - _draft_](#mining-pools---draft)
+- [FAQ](#faq)
+- [Tips & Suggestions](#tips-suggestions)
 
-- [Pool-Mining Neoscrypt Coins - _1070 ver._](#pool-mining-neoscrypt-coins---1070-ver)
-        - [Prereq's](#prereqs)
-    - [GPU & Overclocking](#gpu-overclocking)
-        - [For NVIDIA - Download & Install MSI Afterburner](#for-nvidia---download-install-msi-afterburner)
-        - [For other cards (AM)](#for-other-cards-am)
-    - [Setting Up a Miner Program](#setting-up-a-miner-program)
-    - [Launching & Running the Miner](#launching-running-the-miner)
-        - [Creating the BAT file](#creating-the-bat-file)
-        - [Launching the Miner](#launching-the-miner)
-    - [Mining Pools - _draft_](#mining-pools---draft)
-    - [FAQ](#faq)
-    - [Tips & Suggestions](#tips-suggestions)
-
-<!-- /TOC -->
 
 ### Prereq's
 
@@ -49,7 +44,7 @@ Be sure to hit the **CHECKMARK** to confirm & keep the settings!!
 
 ![https://i.imgur.com/64yupfL.png](https://i.imgur.com/64yupfL.png)
 
-### For other cards (AM)
+### For other cards (AMD)
 
 **I don’t have a guide up yet** because I don’t own one myself, but I can get some links together in time to point folks in the right direction if need be.
 
