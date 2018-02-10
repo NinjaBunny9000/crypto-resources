@@ -6,8 +6,8 @@
 - [GPU & Overclocking](#gpu-overclocking)
     - [NVIDIA](#for-nvidia---download-install-msi-afterburner)
     - [AMD](#for-other-cards-amd)
-- [Setting Up a Miner Program](#setting-up-a-miner-program)
-- [Launching & Running the Miner](#launching-running-the-miner)
+- [Setting Up & Launching a Mining Program](#setting-up-launching-a-mining-program)
+    - [Downloading the Miner](#downloading-the-miner)
     - [Creating the BAT file](#creating-the-bat-file)
     - [Launching the Miner](#launching-the-miner)
 - [Mining Pools - _draft_](#mining-pools---draft)
@@ -48,7 +48,11 @@ Be sure to hit the **CHECKMARK** to confirm & keep the settings!!
 
 **I don’t have a guide up yet** because I don’t own one myself, but I can get some links together in time to point folks in the right direction if need be.
 
-## Setting Up a Miner Program
+## Setting Up & Launching a Mining Program
+
+> _Skip this next bit if it ain't yer first rodeo..._ 
+
+### Downloading the Miner
 
 I’ve been using hsrminer with better results than ccminer or excavator (nh). I haven’t run recent tests tho, so I don’t want to drop any specific numbers, but I do think it’s worth giving a try:
 
@@ -56,15 +60,11 @@ I’ve been using hsrminer with better results than ccminer or excavator (nh). I
 **hsrminer** - https://bitcointalk.org/index.php?topic=2565979.0
 
 
-**Download hsrminer** (or similar) and **extract the .exe** to a folder somewhere. Many put miners in a mining folder on their Desktop.
-
-## Launching & Running the Miner
-
-> _Skip this next bit if it ain't yer first rodeo..._ 
-
-You’ll be running the miner through a terminal (command-line), but don’t let that intimidate you! There’s an easy way to send command-line information & arguments with just a few simple keystrokes. Once you have it setup, it'll be really easy to use.
+**Download** hsrminer (or similar) and **extract the .exe** to a folder somewhere. Many put miners in a mining folder on their Desktop.
 
 ### Creating the BAT file
+
+You’ll be running the miner through a terminal (command-line), but don’t let that intimidate you! There’s an easy way to send command-line information & arguments with just a few simple keystrokes. Once you have it setup, it'll be really easy to use.
 
 First, **open a plain-text editor** like Notepad or Notepad++ and **create a blank file**. Save that file as <some-file-name>.bat in the same folder you put the miner.
 
