@@ -110,14 +110,14 @@ goto loop
 
 ![opening terminal](https://i.imgur.com/5Vd2q70.png)
 
-In the terminal, type "cd " then press CTRL+v to **paste the directory location** you just copied & hit enter.
+In the terminal, type "cd " then press CTRL+v to **paste the directory location** you just copied then hit enter.
 
 ![terminal](https://i.imgur.com/hMEb6Vk.png)
 
 **Type the name of the BAT file**.  
 _SHORTCUT:_ Start typing the name of the BAT file you made then press tab to autocomplete
 
-**Press enter to run.** Give it a few minutes, then check on the pool's page under "wallet", using your wallet address you used in the BAT file, to see status & progress of your mining rig.
+**Press enter to run.** Give it a few minutes then check on the pool's page under "wallet" (using your wallet address you used in the BAT file) to see the status & progress.
 
 _** Another tutorial is coming soon that goes over what you're seeing in the output from the miner for those who haven't previously been exposed to one._
 
